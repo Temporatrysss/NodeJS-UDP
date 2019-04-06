@@ -1,0 +1,12 @@
+{
+  "name": "nodejsudp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server.js",
+    "send":"node client.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
